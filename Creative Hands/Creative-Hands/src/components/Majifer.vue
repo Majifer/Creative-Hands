@@ -7,7 +7,9 @@
 
         <h4>
             Suerte a partir de ahora!!!
-            <p>Hasta ahora todo va demasiado bien por lo que tenemos que tener algun tipo de problema en el transcurso de los acaonteicmientso </p>
+            <p>Hasta ahora todo va demasiado bien por lo que tenemos
+                que tener algun tipo de problema en el transcurso<br>
+                de los acontecimientos </p>
 
             <li>
                 <ol>1</ol>
@@ -18,3 +20,10 @@
 
     </div>
 </template>
+
+<style scoped>
+.Majifer-tittle{
+    background-color: rgb(92, 133, 107);
+    font-family: monospace;
+}
+</style>
