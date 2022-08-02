@@ -23,7 +23,12 @@
 
 <style scoped>
 .Majifer-tittle{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-style: bold;
     background-color: rgb(92, 133, 107);
     font-family: monospace;
+    font-size: 20px;
 }
 </style>
